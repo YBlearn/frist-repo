@@ -1,3 +1,3 @@
-Another file
+line replaced
 
 Addning another line now. thanks
